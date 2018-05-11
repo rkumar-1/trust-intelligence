@@ -1,2 +1,0 @@
-# trustintel
-Social media platforms are part of our digital life and here to stay forever! Even when you don't use them directly, they influence the life around you! So, it is important to keep these platforms safe and sound and trustworthy! "Trust" is like an oxygen to a social media platform says twitter CEO. This project is about thinking about and managing user trust on social media platforms.
