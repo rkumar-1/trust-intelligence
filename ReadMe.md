@@ -8,11 +8,11 @@ What does this system that we are going to measure look like here?
 
 We are aware of the never ending streaming nature of twitter platform. It is fascinating to think what prompts these humans to keep on typing their thoughts. 
 
-Keep it simple Sam principle applies here. 
+Ideally, we want to establish a few high-level health indicators that give us a sense of the traffic flowing through this platform. Keep it simple Sam principle applies here. 
 
 I propose that our system estimates and publishes two singular numbers, one idenitfying the "unhelathy red traffic" and "healthy blue traffic". Red Estimate and Blue estimate. Simple enough. 
 
-At any given time, our analytics engine can tell you the nature of the system. When you have overwhelming blue traffic flowing through the system, the system breathes easily as more oxygen (trusty conversations) are flowing through the system. You make the connection, I know.
+At any given time, our analytics engine can tell you the nature of the system. When you have overwhelming blue traffic flowing through the system, the system breathes easily as more oxygen (trusty conversations) are flowing through the system. You made the connection, I realize.
 
 COLLECT ME SOME DATA
 
@@ -23,7 +23,7 @@ COLLECT ME SOME DATA
 
 3. *Find me some Rabbits:* 
 
-My observation is that some of the Tweets have a tendency to keep multiplying like rabbits. These tweets can develop a *velocity* and find their ways to more twitter users! These quuick spikes called as *amplifications* are of great interest to the twitter team.  The tendency to quickly multiciply, in a sense resembles that of rabbits. Let us name them RABBITS. We need to make sure, we net some rabbits in our data gathering. Are you ready. 
+My observation is that some of the Tweets have a tendency to keep multiplying like rabbits. These tweets can develop a *velocity* and find their ways to more twitter users! These quick spikes called as *amplifications* are of great interest to the twitter team.  The tendency to quickly multiciply, in a sense resembles that of rabbits. Let us name them RABBITS. We need to make sure, we net some rabbits in our data gathering. Are you ready. 
 
 OK. What percentage of twitter traffic is filled with rabbits? We simply don't know up front! 
 
